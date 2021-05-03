@@ -1,0 +1,14 @@
+Ce fichier contient les informations des femmes contenues dans imp_h20.txt
+Numero Sexe Taille Poids
+1357   F    1.6764 70.37
+2108   F    1.8034 74.91
+2176   F    1.8796 84.898
+2187   F    1.6764 81.72
+3498   F    1.4986 61.29
+4100   F     1.651 54.026
+4148   F    1.8034 83.99
+4177   F    1.7526 62.652
+4198   F    1.7526 56.75
+4354   F    1.6764 63.106
+4433   F    1.4732 55.842
+5477   F    1.8034 66.738
